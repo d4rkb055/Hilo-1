@@ -1,0 +1,25 @@
+Object: Player
+
+Responsibility:
+-to hold and display identifying information 
+
+Behaviors: 
+-Keeps track of their score 
+-interact with card guess
+-decides whether or not they play again 
+-Keeps track of whether or not they hit zero and end the game. 
+
+
+
+
+Object: Player
+
+Responsibility:
+-to hold and display identifying information 
+
+Behaviors: 
+-Keeps track of their score 
+-interact with card guess
+-decides whether or not they play again 
+-Keeps track of whether or not they hit zero and end the game. 
+
